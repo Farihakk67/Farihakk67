@@ -1,3 +1,4 @@
+![logo](https://github.com/Farihakk67/Farihakk67/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Fariha</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 

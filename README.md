@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fariha 👋</h1>
-<h3 align="center">Software Developer · Data Pipelines · Backend Systems · Karachi, Pakistan</h3>
+<h3 align="center">Software Developer · Data Pipelines · Backend Systems</h3>
 
 <img align="right" alt="coding" width="380" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"/>
 
